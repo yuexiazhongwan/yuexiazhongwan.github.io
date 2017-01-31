@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>月下钟晚</title>
+	<hr>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="icon" href="u=3874073403,800044786&fm=23&gp=0.jpg">
+	<link type="text/css" rel="stylesheet" href="css/main.css">
+
+<body background="u=4236964511,2797752336&fm=23&gp=0.jpg">
+	<h1 align="center">true</h1>
+	<hr><b>
+	<audio  autoplay="autoplay">
+  <source src="/i/song.ogg" type="audio/ogg">
+  <source src="Brandy - True.mp3">
+<embed height="100" width="100" src="Brandy - True.mp3" />
+</audio>
+
+
+<html/>
